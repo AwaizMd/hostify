@@ -157,11 +157,11 @@ a{
 }
 
 .icon-container{
+    align-items: center;
     background-color: #f3f9fa;
-    width: 64px;
-    height: 64px;
     border-radius: 100%;
     display: inline-flex;
+    height: 64px;
     justify-content: center;
-    align-items: center;
+    width: 64px;
 }
