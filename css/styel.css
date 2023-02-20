@@ -1,6 +1,7 @@
 :root{
     --color-accent : #ff3400;
     --color-body: #918ca4;
+    --color-body-darker: #5c5577;
     --color-headings: #1b0760;
     --color-primary : #2584ff;
     --color-secondary : #00d9ff;
@@ -163,7 +164,7 @@ a{
 
 .icon-container{
     align-items: center;
-    background-color: #f3f9fa;
+    /* background-color: #f3f9fa; */
     border-radius: 100%;
     display: inline-flex;
     height: 64px;
@@ -375,3 +376,4 @@ a{
 .media__image{
     margin-top: 1rem;
 }
+
